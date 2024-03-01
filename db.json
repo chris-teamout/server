@@ -1,0 +1,222 @@
+[
+	{
+		"name": "The Ritz-Carlton Key Biscayne, Miami",
+		"location": "Key Biscayne, Miami, USA",
+		"address": "455 Grand Bay Dr, Key Biscayne, FL 33149, USA",
+		"closest_airport": {
+			"name": "Miami International Airport",
+			"distance_km": 22.5
+		},
+		"total_rooms": 402,
+		"uuid": "fb38488e-eb9b-4b09-bbf1-74d52a59ef3d"
+	},
+	{
+		"name": "The St. Regis Denver",
+		"location": "Denver, USA",
+		"address": "1911, 1250 N Broadway, Denver, CO 80203, USA",
+		"closest_airport": {
+			"name": "Denver International Airport",
+			"distance_km": 39.1
+		},
+		"total_rooms": 220,
+		"uuid": "d91f8e58-1c7c-4057-b190-4b23c2d515e0"
+	},
+	{
+		"name": "Hotel Del Coronado",
+		"location": "San Diego, USA",
+		"address": "1500 Orange Ave, Coronado, CA 92118, USA",
+		"closest_airport": {
+			"name": "San Diego International Airport",
+			"distance_km": 11.3
+		},
+		"total_rooms": 679,
+		"uuid": "d9c26ecf-c28b-4c08-b5a1-d03b62f3f7fc"
+	},
+	{
+		"name": "The Biltmore Hotel",
+		"location": "Coral Gables, Miami, USA",
+		"address": "1200 Anastasia Ave, Coral Gables, FL 33134, USA",
+		"closest_airport": {
+			"name": "Miami International Airport",
+			"distance_km": 10.4
+		},
+		"total_rooms": 273,
+		"uuid": "a7b4d8dc-6a12-4c08-89c0-0019e9fde54c"
+	},
+	{
+		"name": "The Brown Palace Hotel and Spa, Autograph Collection",
+		"location": "Denver, USA",
+		"address": "321 17th St, Denver, CO 80202, USA",
+		"closest_airport": {
+			"name": "Denver International Airport",
+			"distance_km": 37.2
+		},
+		"total_rooms": 241,
+		"uuid": "ea400c18-8c9e-4c2f-bc46-1dd7be16c2bb"
+	},
+	{
+		"name": "Lodge at Torrey Pines",
+		"location": "San Diego, USA",
+		"address": "11480 N Torrey Pines Rd, La Jolla, CA 92037, USA",
+		"closest_airport": {
+			"name": "San Diego International Airport",
+			"distance_km": 23.5
+		},
+		"total_rooms": 170,
+		"uuid": "f4185e18-d6a3-4ab7-b12f-fc9c80e10720"
+	},
+	{
+		"name": "The Betsy - South Beach",
+		"location": "Miami Beach, Miami, USA",
+		"address": "1440 Ocean Dr, Miami Beach, FL 33139, USA",
+		"closest_airport": {
+			"name": "Miami International Airport",
+			"distance_km": 17.6
+		},
+		"total_rooms": 130,
+		"uuid": "fdd3d4b9-92b6-4f61-b396-6d2c7a09bea2"
+	},
+	{
+		"name": "The Crawford Hotel",
+		"location": "Denver, USA",
+		"address": "1701 Wynkoop St, Denver, CO 80202, USA",
+		"closest_airport": {
+			"name": "Denver International Airport",
+			"distance_km": 38.7
+		},
+		"total_rooms": 112,
+		"uuid": "6f8ebf68-4149-4998-a775-8b8c8f65e391"
+	},
+	{
+		"name": "Hotel Republic San Diego",
+		"location": "San Diego, USA",
+		"address": "421 W B St, San Diego, CA 92101, USA",
+		"closest_airport": {
+			"name": "San Diego International Airport",
+			"distance_km": 3.7
+		},
+		"total_rooms": 258,
+		"uuid": "8c4c224e-d40c-4d2c-8559-2af929bfbe71"
+	},
+	{
+		"name": "The Miami Beach EDITION",
+		"location": "Miami Beach, Miami, USA",
+		"address": "2901 Collins Ave, Miami Beach, FL 33140, USA",
+		"closest_airport": {
+			"name": "Miami International Airport",
+			"distance_km": 19.9
+		},
+		"total_rooms": 294,
+		"uuid": "5eeb87a8-8012-4e0c-b0de-f5e451d2920a"
+	},
+	{
+		"uuid": "6c84fb90-12c4-11e1-840d-7b25c5ee775a",
+		"name": "The Ritz-Carlton",
+		"location": "New York, USA",
+		"address": "50 Central Park S, New York, NY 10019, USA",
+		"closest_airport": {
+			"name": "John F. Kennedy International Airport",
+			"distance_km": 24.3
+		},
+		"total_rooms": 253
+	},
+	{
+		"uuid": "110ec58a-a0f2-4ac4-8393-c866d813b8d1",
+		"name": "Waldorf Astoria",
+		"location": "New York, USA",
+		"address": "301 Park Ave, New York, NY 10022, USA",
+		"closest_airport": {
+			"name": "John F. Kennedy International Airport",
+			"distance_km": 28.7
+		},
+		"total_rooms": 1245
+	},
+	{
+		"uuid": "550e8400-e29b-41d4-a716-446655440000",
+		"name": "The Plaza",
+		"location": "New York, USA",
+		"address": "768 5th Ave, New York, NY 10019, USA",
+		"closest_airport": {
+			"name": "John F. Kennedy International Airport",
+			"distance_km": 24.8
+		},
+		"total_rooms": 282
+	},
+	{
+		"uuid": "4a036dda-7f75-4526-bccb-620b6c6e158d",
+		"name": "The Beverly Hills Hotel",
+		"location": "Beverly Hills, USA",
+		"address": "9641 Sunset Blvd, Beverly Hills, CA 90210, USA",
+		"closest_airport": {
+			"name": "Los Angeles International Airport",
+			"distance_km": 18.2
+		},
+		"total_rooms": 208
+	},
+	{
+		"uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+		"name": "The St. Regis New York",
+		"location": "New York, USA",
+		"address": "2 E 55th St, New York, NY 10022, USA",
+		"closest_airport": {
+			"name": "John F. Kennedy International Airport",
+			"distance_km": 28.5
+		},
+		"total_rooms": 238
+	},
+	{
+		"uuid": "21e4b065-b7d6-4f30-b758-b5bf2d0e423e",
+		"name": "The Peninsula Beverly Hills",
+		"location": "Beverly Hills, USA",
+		"address": "9882 S Santa Monica Blvd, Beverly Hills, CA 90212, USA",
+		"closest_airport": {
+			"name": "Los Angeles International Airport",
+			"distance_km": 13.6
+		},
+		"total_rooms": 195
+	},
+	{
+		"uuid": "833afb64-49f1-4c38-8a52-fc4870ef28ad",
+		"name": "Four Seasons Hotel",
+		"location": "Los Angeles, USA",
+		"address": "300 S Doheny Dr, Los Angeles, CA 90048, USA",
+		"closest_airport": {
+			"name": "Los Angeles International Airport",
+			"distance_km": 15.3
+		},
+		"total_rooms": 285
+	},
+	{
+		"uuid": "57092a5f-a54c-41a1-a1f1-7e5ea7f0f7e7",
+		"name": "The Langham",
+		"location": "Chicago, USA",
+		"address": "330 N Wabash Ave, Chicago, IL 60611, USA",
+		"closest_airport": {
+			"name": "Chicago O'Hare International Airport",
+			"distance_km": 27.9
+		},
+		"total_rooms": 316
+	},
+	{
+		"uuid": "b1bcf9d3-5907-4e83-819c-34c0c8a9a857",
+		"name": "The Ritz-Carlton",
+		"location": "Los Angeles, USA",
+		"address": "900 W Olympic Blvd, Los Angeles, CA 90015, USA",
+		"closest_airport": {
+			"name": "Los Angeles International Airport",
+			"distance_km": 17.8
+		},
+		"total_rooms": 123
+	},
+	{
+		"uuid": "3c29ec64-9b6b-4465-aeb7-b350e4310ad1",
+		"name": "The Fairmont San Francisco",
+		"location": "San Francisco, USA",
+		"address": "950 Mason St, San Francisco, CA 94108, USA",
+		"closest_airport": {
+			"name": "San Francisco International Airport",
+			"distance_km": 20.6
+		},
+		"total_rooms": 606
+	}
+]
