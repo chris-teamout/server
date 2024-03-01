@@ -9,7 +9,7 @@
 				"distance_km": 22.5
 			},
 			"total_rooms": 402,
-			"uuid": "fb38488e-eb9b-4b09-bbf1-74d52a59ef3d"
+			"id": "fb38488e-eb9b-4b09-bbf1-74d52a59ef3d"
 		},
 		{
 			"name": "The St. Regis Denver",
@@ -20,7 +20,7 @@
 				"distance_km": 39.1
 			},
 			"total_rooms": 220,
-			"uuid": "d91f8e58-1c7c-4057-b190-4b23c2d515e0"
+			"id": "d91f8e58-1c7c-4057-b190-4b23c2d515e0"
 		},
 		{
 			"name": "Hotel Del Coronado",
@@ -31,7 +31,7 @@
 				"distance_km": 11.3
 			},
 			"total_rooms": 679,
-			"uuid": "d9c26ecf-c28b-4c08-b5a1-d03b62f3f7fc"
+			"id": "d9c26ecf-c28b-4c08-b5a1-d03b62f3f7fc"
 		},
 		{
 			"name": "The Biltmore Hotel",
@@ -42,7 +42,7 @@
 				"distance_km": 10.4
 			},
 			"total_rooms": 273,
-			"uuid": "a7b4d8dc-6a12-4c08-89c0-0019e9fde54c"
+			"id": "a7b4d8dc-6a12-4c08-89c0-0019e9fde54c"
 		},
 		{
 			"name": "The Brown Palace Hotel and Spa, Autograph Collection",
@@ -53,7 +53,7 @@
 				"distance_km": 37.2
 			},
 			"total_rooms": 241,
-			"uuid": "ea400c18-8c9e-4c2f-bc46-1dd7be16c2bb"
+			"id": "ea400c18-8c9e-4c2f-bc46-1dd7be16c2bb"
 		},
 		{
 			"name": "Lodge at Torrey Pines",
@@ -64,7 +64,7 @@
 				"distance_km": 23.5
 			},
 			"total_rooms": 170,
-			"uuid": "f4185e18-d6a3-4ab7-b12f-fc9c80e10720"
+			"id": "f4185e18-d6a3-4ab7-b12f-fc9c80e10720"
 		},
 		{
 			"name": "The Betsy - South Beach",
@@ -75,7 +75,7 @@
 				"distance_km": 17.6
 			},
 			"total_rooms": 130,
-			"uuid": "fdd3d4b9-92b6-4f61-b396-6d2c7a09bea2"
+			"id": "fdd3d4b9-92b6-4f61-b396-6d2c7a09bea2"
 		},
 		{
 			"name": "The Crawford Hotel",
@@ -86,7 +86,7 @@
 				"distance_km": 38.7
 			},
 			"total_rooms": 112,
-			"uuid": "6f8ebf68-4149-4998-a775-8b8c8f65e391"
+			"id": "6f8ebf68-4149-4998-a775-8b8c8f65e391"
 		},
 		{
 			"name": "Hotel Republic San Diego",
@@ -97,7 +97,7 @@
 				"distance_km": 3.7
 			},
 			"total_rooms": 258,
-			"uuid": "8c4c224e-d40c-4d2c-8559-2af929bfbe71"
+			"id": "8c4c224e-d40c-4d2c-8559-2af929bfbe71"
 		},
 		{
 			"name": "The Miami Beach EDITION",
@@ -108,10 +108,10 @@
 				"distance_km": 19.9
 			},
 			"total_rooms": 294,
-			"uuid": "5eeb87a8-8012-4e0c-b0de-f5e451d2920a"
+			"id": "5eeb87a8-8012-4e0c-b0de-f5e451d2920a"
 		},
 		{
-			"uuid": "6c84fb90-12c4-11e1-840d-7b25c5ee775a",
+			"id": "6c84fb90-12c4-11e1-840d-7b25c5ee775a",
 			"name": "The Ritz-Carlton",
 			"location": "New York, USA",
 			"address": "50 Central Park S, New York, NY 10019, USA",
@@ -122,7 +122,7 @@
 			"total_rooms": 253
 		},
 		{
-			"uuid": "110ec58a-a0f2-4ac4-8393-c866d813b8d1",
+			"id": "110ec58a-a0f2-4ac4-8393-c866d813b8d1",
 			"name": "Waldorf Astoria",
 			"location": "New York, USA",
 			"address": "301 Park Ave, New York, NY 10022, USA",
@@ -133,7 +133,7 @@
 			"total_rooms": 1245
 		},
 		{
-			"uuid": "550e8400-e29b-41d4-a716-446655440000",
+			"id": "550e8400-e29b-41d4-a716-446655440000",
 			"name": "The Plaza",
 			"location": "New York, USA",
 			"address": "768 5th Ave, New York, NY 10019, USA",
@@ -144,7 +144,7 @@
 			"total_rooms": 282
 		},
 		{
-			"uuid": "4a036dda-7f75-4526-bccb-620b6c6e158d",
+			"id": "4a036dda-7f75-4526-bccb-620b6c6e158d",
 			"name": "The Beverly Hills Hotel",
 			"location": "Beverly Hills, USA",
 			"address": "9641 Sunset Blvd, Beverly Hills, CA 90210, USA",
@@ -155,7 +155,7 @@
 			"total_rooms": 208
 		},
 		{
-			"uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+			"id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
 			"name": "The St. Regis New York",
 			"location": "New York, USA",
 			"address": "2 E 55th St, New York, NY 10022, USA",
@@ -166,7 +166,7 @@
 			"total_rooms": 238
 		},
 		{
-			"uuid": "21e4b065-b7d6-4f30-b758-b5bf2d0e423e",
+			"id": "21e4b065-b7d6-4f30-b758-b5bf2d0e423e",
 			"name": "The Peninsula Beverly Hills",
 			"location": "Beverly Hills, USA",
 			"address": "9882 S Santa Monica Blvd, Beverly Hills, CA 90212, USA",
@@ -177,7 +177,7 @@
 			"total_rooms": 195
 		},
 		{
-			"uuid": "833afb64-49f1-4c38-8a52-fc4870ef28ad",
+			"id": "833afb64-49f1-4c38-8a52-fc4870ef28ad",
 			"name": "Four Seasons Hotel",
 			"location": "Los Angeles, USA",
 			"address": "300 S Doheny Dr, Los Angeles, CA 90048, USA",
@@ -188,7 +188,7 @@
 			"total_rooms": 285
 		},
 		{
-			"uuid": "57092a5f-a54c-41a1-a1f1-7e5ea7f0f7e7",
+			"id": "57092a5f-a54c-41a1-a1f1-7e5ea7f0f7e7",
 			"name": "The Langham",
 			"location": "Chicago, USA",
 			"address": "330 N Wabash Ave, Chicago, IL 60611, USA",
@@ -199,7 +199,7 @@
 			"total_rooms": 316
 		},
 		{
-			"uuid": "b1bcf9d3-5907-4e83-819c-34c0c8a9a857",
+			"id": "b1bcf9d3-5907-4e83-819c-34c0c8a9a857",
 			"name": "The Ritz-Carlton",
 			"location": "Los Angeles, USA",
 			"address": "900 W Olympic Blvd, Los Angeles, CA 90015, USA",
@@ -210,7 +210,7 @@
 			"total_rooms": 123
 		},
 		{
-			"uuid": "3c29ec64-9b6b-4465-aeb7-b350e4310ad1",
+			"id": "3c29ec64-9b6b-4465-aeb7-b350e4310ad1",
 			"name": "The Fairmont San Francisco",
 			"location": "San Francisco, USA",
 			"address": "950 Mason St, San Francisco, CA 94108, USA",
