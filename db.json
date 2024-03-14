@@ -1,6 +1,7 @@
 {
 	"venues": [
 		{
+			"id": "fb38488e-eb9b-4b09-bbf1-74d52a59ef3d",
 			"name": "The Ritz-Carlton Key Biscayne, Miami",
 			"location": "Key Biscayne, Miami, USA",
 			"address": "455 Grand Bay Dr, Key Biscayne, FL 33149, USA",
@@ -9,9 +10,10 @@
 				"distance_km": 22.5
 			},
 			"total_rooms": 402,
-			"id": "fb38488e-eb9b-4b09-bbf1-74d52a59ef3d"
+			"favorite": false
 		},
 		{
+			"id": "d91f8e58-1c7c-4057-b190-4b23c2d515e0",
 			"name": "The St. Regis Denver",
 			"location": "Denver, USA",
 			"address": "1911, 1250 N Broadway, Denver, CO 80203, USA",
@@ -20,9 +22,10 @@
 				"distance_km": 39.1
 			},
 			"total_rooms": 220,
-			"id": "d91f8e58-1c7c-4057-b190-4b23c2d515e0"
+			"favorite": true
 		},
 		{
+			"id": "d9c26ecf-c28b-4c08-b5a1-d03b62f3f7fc",
 			"name": "Hotel Del Coronado",
 			"location": "San Diego, USA",
 			"address": "1500 Orange Ave, Coronado, CA 92118, USA",
@@ -31,9 +34,10 @@
 				"distance_km": 11.3
 			},
 			"total_rooms": 679,
-			"id": "d9c26ecf-c28b-4c08-b5a1-d03b62f3f7fc"
+			"favorite": false
 		},
 		{
+			"id": "a7b4d8dc-6a12-4c08-89c0-0019e9fde54c",
 			"name": "The Biltmore Hotel",
 			"location": "Coral Gables, Miami, USA",
 			"address": "1200 Anastasia Ave, Coral Gables, FL 33134, USA",
@@ -42,9 +46,10 @@
 				"distance_km": 10.4
 			},
 			"total_rooms": 273,
-			"id": "a7b4d8dc-6a12-4c08-89c0-0019e9fde54c"
+			"favorite": false
 		},
 		{
+			"id": "ea400c18-8c9e-4c2f-bc46-1dd7be16c2bb",
 			"name": "The Brown Palace Hotel and Spa, Autograph Collection",
 			"location": "Denver, USA",
 			"address": "321 17th St, Denver, CO 80202, USA",
@@ -53,9 +58,10 @@
 				"distance_km": 37.2
 			},
 			"total_rooms": 241,
-			"id": "ea400c18-8c9e-4c2f-bc46-1dd7be16c2bb"
+			"favorite": false
 		},
 		{
+			"id": "f4185e18-d6a3-4ab7-b12f-fc9c80e10720",
 			"name": "Lodge at Torrey Pines",
 			"location": "San Diego, USA",
 			"address": "11480 N Torrey Pines Rd, La Jolla, CA 92037, USA",
@@ -64,9 +70,10 @@
 				"distance_km": 23.5
 			},
 			"total_rooms": 170,
-			"id": "f4185e18-d6a3-4ab7-b12f-fc9c80e10720"
+			"favorite": true
 		},
 		{
+			"id": "fdd3d4b9-92b6-4f61-b396-6d2c7a09bea2",
 			"name": "The Betsy - South Beach",
 			"location": "Miami Beach, Miami, USA",
 			"address": "1440 Ocean Dr, Miami Beach, FL 33139, USA",
@@ -75,9 +82,10 @@
 				"distance_km": 17.6
 			},
 			"total_rooms": 130,
-			"id": "fdd3d4b9-92b6-4f61-b396-6d2c7a09bea2"
+			"favorite": false
 		},
 		{
+			"id": "6f8ebf68-4149-4998-a775-8b8c8f65e391",
 			"name": "The Crawford Hotel",
 			"location": "Denver, USA",
 			"address": "1701 Wynkoop St, Denver, CO 80202, USA",
@@ -86,9 +94,10 @@
 				"distance_km": 38.7
 			},
 			"total_rooms": 112,
-			"id": "6f8ebf68-4149-4998-a775-8b8c8f65e391"
+			"favorite": false
 		},
 		{
+			"id": "8c4c224e-d40c-4d2c-8559-2af929bfbe71",
 			"name": "Hotel Republic San Diego",
 			"location": "San Diego, USA",
 			"address": "421 W B St, San Diego, CA 92101, USA",
@@ -97,9 +106,10 @@
 				"distance_km": 3.7
 			},
 			"total_rooms": 258,
-			"id": "8c4c224e-d40c-4d2c-8559-2af929bfbe71"
+			"favorite": false
 		},
 		{
+			"id": "5eeb87a8-8012-4e0c-b0de-f5e451d2920a",
 			"name": "The Miami Beach EDITION",
 			"location": "Miami Beach, Miami, USA",
 			"address": "2901 Collins Ave, Miami Beach, FL 33140, USA",
@@ -108,7 +118,7 @@
 				"distance_km": 19.9
 			},
 			"total_rooms": 294,
-			"id": "5eeb87a8-8012-4e0c-b0de-f5e451d2920a"
+			"favorite": false
 		},
 		{
 			"id": "6c84fb90-12c4-11e1-840d-7b25c5ee775a",
@@ -119,7 +129,8 @@
 				"name": "John F. Kennedy International Airport",
 				"distance_km": 24.3
 			},
-			"total_rooms": 253
+			"total_rooms": 253,
+			"favorite": true
 		},
 		{
 			"id": "110ec58a-a0f2-4ac4-8393-c866d813b8d1",
@@ -130,7 +141,8 @@
 				"name": "John F. Kennedy International Airport",
 				"distance_km": 28.7
 			},
-			"total_rooms": 1245
+			"total_rooms": 1245,
+			"favorite": false
 		},
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440000",
@@ -141,7 +153,8 @@
 				"name": "John F. Kennedy International Airport",
 				"distance_km": 24.8
 			},
-			"total_rooms": 282
+			"total_rooms": 282,
+			"favorite": false
 		},
 		{
 			"id": "4a036dda-7f75-4526-bccb-620b6c6e158d",
@@ -152,7 +165,8 @@
 				"name": "Los Angeles International Airport",
 				"distance_km": 18.2
 			},
-			"total_rooms": 208
+			"total_rooms": 208,
+			"favorite": true
 		},
 		{
 			"id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
@@ -163,7 +177,8 @@
 				"name": "John F. Kennedy International Airport",
 				"distance_km": 28.5
 			},
-			"total_rooms": 238
+			"total_rooms": 238,
+			"favorite": false
 		},
 		{
 			"id": "21e4b065-b7d6-4f30-b758-b5bf2d0e423e",
@@ -174,7 +189,8 @@
 				"name": "Los Angeles International Airport",
 				"distance_km": 13.6
 			},
-			"total_rooms": 195
+			"total_rooms": 195,
+			"favorite": false
 		},
 		{
 			"id": "833afb64-49f1-4c38-8a52-fc4870ef28ad",
@@ -185,7 +201,8 @@
 				"name": "Los Angeles International Airport",
 				"distance_km": 15.3
 			},
-			"total_rooms": 285
+			"total_rooms": 285,
+			"favorite": false
 		},
 		{
 			"id": "57092a5f-a54c-41a1-a1f1-7e5ea7f0f7e7",
@@ -196,7 +213,8 @@
 				"name": "Chicago O'Hare International Airport",
 				"distance_km": 27.9
 			},
-			"total_rooms": 316
+			"total_rooms": 316,
+			"favorite": false
 		},
 		{
 			"id": "b1bcf9d3-5907-4e83-819c-34c0c8a9a857",
@@ -207,7 +225,8 @@
 				"name": "Los Angeles International Airport",
 				"distance_km": 17.8
 			},
-			"total_rooms": 123
+			"total_rooms": 123,
+			"favorite": true
 		},
 		{
 			"id": "3c29ec64-9b6b-4465-aeb7-b350e4310ad1",
@@ -218,7 +237,8 @@
 				"name": "San Francisco International Airport",
 				"distance_km": 20.6
 			},
-			"total_rooms": 606
+			"total_rooms": 606,
+			"favorite": true
 		}
 	]
 }
