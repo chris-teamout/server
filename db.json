@@ -10,7 +10,8 @@
 				"distance_km": 22.5
 			},
 			"total_rooms": 402,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupgradedpoints.com%2Fwp-content%2Fuploads%2F2021%2F03%2FHaulover-Park-Beach-2048x1364.jpg&f=1&nofb=1&ipt=bd298d571310f2092ee911da73c01aeb62b6c1d70773609ea149ea2908ae567c&ipo=images"
 		},
 		{
 			"id": "d91f8e58-1c7c-4057-b190-4b23c2d515e0",
@@ -22,7 +23,8 @@
 				"distance_km": 39.1
 			},
 			"total_rooms": 220,
-			"favorite": true
+			"favorite": true,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstrawberrymilkevents.com%2Fwp-content%2Fuploads%2F2020%2F04%2FSt.-Regis-front-marriott.com_-scaled.jpg&f=1&nofb=1&ipt=96b67af48dfc908278c6928cf7cb5701f3e3cfb84932b3757abd10129a61e86c&ipo=images"
 		},
 		{
 			"id": "d9c26ecf-c28b-4c08-b5a1-d03b62f3f7fc",
@@ -34,7 +36,8 @@
 				"distance_km": 11.3
 			},
 			"total_rooms": 679,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flp-cms-production.imgix.net%2F2019-06%2F82467bffab78b9637cff04f62688f971-hotel-del-coronado.jpg%3Fauto%3Dformat%26q%3D40%26ar%3D16%3A9%26fit%3Dcrop%26crop%3Dcenter%26fm%3Dauto%26w%3D5500&f=1&nofb=1&ipt=588d436cda4a8966808eb0f7ef893000bb6dc24bfccbbf26d793217e59a35440&ipo=images"
 		},
 		{
 			"id": "a7b4d8dc-6a12-4c08-89c0-0019e9fde54c",
@@ -46,7 +49,8 @@
 				"distance_km": 10.4
 			},
 			"total_rooms": 273,
-			"favorite": false
+			"favorite": false,
+			"image": ""
 		},
 		{
 			"id": "ea400c18-8c9e-4c2f-bc46-1dd7be16c2bb",
@@ -58,7 +62,8 @@
 				"distance_km": 37.2
 			},
 			"total_rooms": 241,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fluxerecess.com%2Fwp-content%2Fuploads%2F2016%2F09%2FBiltmore-hotel-miami-family-resorts-coral-gables-4-2-1074x715.jpg&f=1&nofb=1&ipt=c14d108a477a4476e830d734fbc87514de4ff3ba5dccca195894e2ac246fa183&ipo=images"
 		},
 		{
 			"id": "f4185e18-d6a3-4ab7-b12f-fc9c80e10720",
@@ -70,7 +75,8 @@
 				"distance_km": 23.5
 			},
 			"total_rooms": 170,
-			"favorite": true
+			"favorite": true,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gosandiego.com%2Fwp-content%2Fuploads%2F2016%2F08%2FLodge-at-Torrey-Pines-4.jpg&f=1&nofb=1&ipt=11442d042311e80b6fcd931c38dac38294bc43451163cef593a543608790ef45&ipo=images"
 		},
 		{
 			"id": "fdd3d4b9-92b6-4f61-b396-6d2c7a09bea2",
@@ -82,7 +88,8 @@
 				"distance_km": 17.6
 			},
 			"total_rooms": 130,
-			"favorite": false
+			"favorite": false,
+			"image": ""
 		},
 		{
 			"id": "6f8ebf68-4149-4998-a775-8b8c8f65e391",
@@ -94,7 +101,8 @@
 				"distance_km": 38.7
 			},
 			"total_rooms": 112,
-			"favorite": false
+			"favorite": false,
+			"image": ""
 		},
 		{
 			"id": "8c4c224e-d40c-4d2c-8559-2af929bfbe71",
@@ -106,7 +114,8 @@
 				"distance_km": 3.7
 			},
 			"total_rooms": 258,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.travelcodex.com%2Fwp-content%2Fuploads%2F2017%2F12%2FHotel-Republic-San-Diego-2219.jpg&f=1&nofb=1&ipt=d4525d08b6f193de72d887a21b0e8ea0aef296d66a09d0586d28b69d3e695980&ipo=images"
 		},
 		{
 			"id": "5eeb87a8-8012-4e0c-b0de-f5e451d2920a",
@@ -118,7 +127,8 @@
 				"distance_km": 19.9
 			},
 			"total_rooms": 294,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.editionhotels.com%2Fwp-content%2Fuploads%2F2016%2F01%2FEDITION-Miami-Pool-Night-1870x1401.jpg&f=1&nofb=1&ipt=ebf3fe2c343795158f447629bc9368f2570b0f58a4d91ecb91647e3e6303ae0a&ipo=images"
 		},
 		{
 			"id": "6c84fb90-12c4-11e1-840d-7b25c5ee775a",
@@ -130,7 +140,8 @@
 				"distance_km": 24.3
 			},
 			"total_rooms": 253,
-			"favorite": true
+			"favorite": true,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdannydealguru.com%2Fwp-content%2Fuploads%2F2021%2F06%2FThe_Ritz_Carlton_Exterior.jpg&f=1&nofb=1&ipt=522e02c1faed88b457e1b60d8efecacf12eaf878f418228b5cf7c68b252db883&ipo=images"
 		},
 		{
 			"id": "110ec58a-a0f2-4ac4-8393-c866d813b8d1",
@@ -142,7 +153,8 @@
 				"distance_km": 28.7
 			},
 			"total_rooms": 1245,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.architecturaldigest.com%2Fphotos%2F58dac499befdff5c42411218%2Fmaster%2Fpass%2FWaldorf_2017.03.27---View-05-Overall-Exterior.jpg&f=1&nofb=1&ipt=d9e410386611a3b59ad59e5470b34a523ac7fb62a8cfb10f6cec443db5cf2d85&ipo=images"
 		},
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440000",
@@ -154,7 +166,8 @@
 				"distance_km": 24.8
 			},
 			"total_rooms": 282,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F175226680%2F0x0.jpg%3Fformat%3Djpg%26width%3D1200&f=1&nofb=1&ipt=eb375a8050476baac08504316e2613c41b1ad53700006dbadc5a49f37cec848d&ipo=images"
 		},
 		{
 			"id": "4a036dda-7f75-4526-bccb-620b6c6e158d",
@@ -166,7 +179,8 @@
 				"distance_km": 18.2
 			},
 			"total_rooms": 208,
-			"favorite": true
+			"favorite": true,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Faf%2Fae%2F03%2Fafae037d623b1ba9eeed2ef39f6ff999.jpg&f=1&nofb=1&ipt=990f9fc5115483467ae967703608f0676d60fa2a301f90a1e2fc9732f8cb08c9&ipo=images"
 		},
 		{
 			"id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
@@ -178,7 +192,8 @@
 				"distance_km": 28.5
 			},
 			"total_rooms": 238,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcache.marriott.com%2Fmarriottassets%2Fmarriott%2FNYCXR%2Fnycxr-deluxe-guestroom-8398-hor-clsc.jpg%3Finterpolation%3Dprogressive-bilinear%26&f=1&nofb=1&ipt=e3862a69319b2f4e9d9cf05907f9f907d76a6f0fce3a293f27cbb21d44f44775&ipo=images"
 		},
 		{
 			"id": "21e4b065-b7d6-4f30-b758-b5bf2d0e423e",
@@ -190,7 +205,8 @@
 				"distance_km": 13.6
 			},
 			"total_rooms": 195,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.hotelbeds.com%2Fgiata%2Fxxl%2F19%2F191377%2F191377a_hb_p_001.jpg&f=1&nofb=1&ipt=74f08eaf7978766cd590173ab5a4ddafb3c6e8c5ed895eafb325c4f5cfcef69e&ipo=images"
 		},
 		{
 			"id": "833afb64-49f1-4c38-8a52-fc4870ef28ad",
@@ -202,7 +218,8 @@
 				"distance_km": 15.3
 			},
 			"total_rooms": 285,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcimg0.ibsrv.net%2Fcimg%2Fwww.fodors.com%2F2000x2000_60%2F696%2FFourSeasonsBH-hero-226696.jpg&f=1&nofb=1&ipt=311170416197a47821c7a7e0d54827a32fbb0c7e8934593a95b02a349f1d9136&ipo=images"
 		},
 		{
 			"id": "57092a5f-a54c-41a1-a1f1-7e5ea7f0f7e7",
@@ -214,7 +231,8 @@
 				"distance_km": 27.9
 			},
 			"total_rooms": 316,
-			"favorite": false
+			"favorite": false,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.jsfashionista.com%2Fwp-content%2Fuploads%2F2016%2F11%2FIMG_9056.jpg&f=1&nofb=1&ipt=2c81927d383c58120068b5f2ebcae2e3279bf42821ea2a6153f0c5a489640042&ipo=images"
 		},
 		{
 			"id": "b1bcf9d3-5907-4e83-819c-34c0c8a9a857",
@@ -226,7 +244,8 @@
 				"distance_km": 17.8
 			},
 			"total_rooms": 123,
-			"favorite": true
+			"favorite": true,
+			"image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.extravaganzi.com%2Fwp-content%2Fuploads%2F2010%2F04%2FRitz-Carlton-Los-Angeles-1.jpg&f=1&nofb=1&ipt=48e615312d00e6c3cb3dfe9cdda806c17c00cc5097ab9137b4755754d688290f&ipo=images"
 		},
 		{
 			"id": "3c29ec64-9b6b-4465-aeb7-b350e4310ad1",
@@ -238,7 +257,8 @@
 				"distance_km": 20.6
 			},
 			"total_rooms": 606,
-			"favorite": true
+			"favorite": true,
+			"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.datahc.com%2FHI345197810.jpg&f=1&nofb=1&ipt=49122e94eae85b8a886cd84c7004a6cb41f61738b40446afbf22bc4fdd098a86&ipo=images"
 		}
 	]
 }
